@@ -1,5 +1,4 @@
-# Master_Thesis
-Court judgment prediction and explanation based on Transformers.
+# Court judgment prediction and explanation based on Transformers.
 
 This repository contains the code and results of the Natural Language Processing (NLP) experiments conducted as part of my thesis at Politecnico di Torino.
 
