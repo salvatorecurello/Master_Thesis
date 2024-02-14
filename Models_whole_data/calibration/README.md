@@ -8,4 +8,4 @@ A calibration study was conducted on the top two performing models:
 
 - calibration.ipynb: illustrates the metods used to analize the calibration according different metrics includec the rielability curve which is considered as the most important one. 
 - temperature_scaling_calibration_lsgbert2560.ipynb: a calibration method called "Temperature scaling" is applied to LSGBERT (Non-Hierarchical) since its calibration curve was poorly aligned to the ideal one.
-- /images: contains the images of the rielability curves and the histograms of the prediction
+- /images: contains the images of the rielability curves and the histograms of the predictions.
